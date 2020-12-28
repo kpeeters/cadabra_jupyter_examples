@@ -1,0 +1,6 @@
+name: cadabra_jupyter_examples
+channels:
+  - conda-forge
+dependencies:
+  - cadabra2-jupyter-kernel
+ 

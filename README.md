@@ -1,5 +1,5 @@
-Cadabra Jupyter Example Notebooks
-=================================
+Cadabra example notebooks for Jupyter
+=====================================
 
 This repository contains a collection of Jupyter notebooks which use
 the Cadabra kernel. They can be used standalone, or loaded into
